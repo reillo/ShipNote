@@ -1,0 +1,7 @@
+{
+    "name": "dh/shipNote",
+    "type": "magento-module",
+    "suggest": {
+        "magento-hackathon/magento-composer-installer": "*"
+    }
+}
